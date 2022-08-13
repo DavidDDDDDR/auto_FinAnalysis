@@ -31,7 +31,6 @@ Automated Financial Statement Analysis of Chinese Stocks
 * Python 3.8
 * 需要的包：
    bs4==0.0.1
-   certifi==2022.6.15
    lxml==4.9.1
    matplotlib==3.5.3
    numpy==1.23.1
