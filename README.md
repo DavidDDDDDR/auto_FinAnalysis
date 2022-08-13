@@ -26,3 +26,16 @@ Automated Financial Statement Analysis of Chinese Stocks
 |主程序|main.py|
 |爬虫程序|spider_func.py|
 |分析程序|analysis.py|
+
+## 环境与依赖
+* Python 3.8
+* 需要的包：
+   bs4==0.0.1
+   certifi==2022.6.15
+   lxml==4.9.1
+   matplotlib==3.5.3
+   numpy==1.23.1
+   openpyxl==3.0.10
+   pandas==1.1.0
+   requests==2.28.1
+   xlrd==1.2.0
