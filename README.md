@@ -11,11 +11,14 @@ Automated Financial Statement Analysis of Chinese Stocks
 
 ## 数据来源：
 * 新浪财经(合并报表)
-    * 资产负债表
+    * 资产负债表:
+    
     https://money.finance.sina.com.cn/corp/go.php/vFD_BalanceSheet/stockid/{股票代码}/ctrl/part/displaytype/4.phtml
-    * 利润表
+    * 利润表:
+    
     https://money.finance.sina.com.cn/corp/go.php/vFD_ProfitStatement/stockid/{股票代码}/ctrl/part/displaytype/4.phtml
-    * 现金流量表
+    * 现金流量表:
+    
     https://money.finance.sina.com.cn/corp/go.php/vFD_CashFlow/stockid/{股票代码}/ctrl/part/displaytype/4.phtml
 
 * Wind( F9 - 母公司报表) -- 人工
