@@ -8,7 +8,8 @@ Automated Financial Statement Analysis of Chinese Stocks
 1. 生成合并报表及报告文本
 2. 生成母公司本部报表及报告文本
 3. 异常变动、异常财务指标与风险提示
-![image](https://user-images.githubusercontent.com/111165917/187031517-7afffe45-ace1-4bb0-84ce-153aae45fbc0.png =100x100)
+<img src="[./xxx.png](https://user-images.githubusercontent.com/111165917/187031517-7afffe45-ace1-4bb0-84ce-153aae45fbc0.png)"
+     width = "208.6" height = "121.8" alt="财务比率" align=center />
 
 
 ## 数据来源：
