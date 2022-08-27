@@ -9,6 +9,9 @@ Automated Financial Statement Analysis of Chinese Stocks
 2. 生成母公司本部报表及报告文本
 3. 异常变动、异常财务指标与风险提示
 
+<center>目前涵盖的财务比率</center>
+
+<center>
 | 类型   | 指标名称           | 计算方法                |
 |------|----------------|---------------------|
 | 偿债能力 | 流动比率           | 流动资产/流动负债           |
@@ -24,6 +27,7 @@ Automated Financial Statement Analysis of Chinese Stocks
 |      | 存货周转率（次数）      | 营业成本/存货             |
 | 现金流  | 净现比            | 经营性现金流净额/净利润        |
 |      | 收现比            | 经营性现金流入/营业收入        |
+</center>
 
 ## 数据来源：
 * 新浪财经(合并报表)
